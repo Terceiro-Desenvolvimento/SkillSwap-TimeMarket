@@ -1,0 +1,20 @@
+# Variáveis de ambiente / segredos
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# .NET / MAUI
+bin/
+obj/
+.vs/
+
+# IDE
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
